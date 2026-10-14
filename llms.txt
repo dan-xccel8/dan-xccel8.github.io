@@ -1,0 +1,48 @@
+# XCCEL8 Advanced Solutions LLC
+
+> One-stop full-stack IT solutions provider in Dubai, UAE. Authorized reseller for 101+ global technology brands, with free consultation, expert implementation, and long-term AMC support.
+
+## About
+
+XCCEL8 Advanced Solutions LLC is a Dubai-based IT solutions company serving SMEs across the UAE and GCC. We cover four pillars: Network Infrastructure, Business Applications, Compute & Cloud, and Cyber + Physical Security. We are authorized resellers for Microsoft, Zoho, Fortinet, Sophos, Lenovo, Honeywell, and 95+ other brands.
+
+- **Location:** Al Nahda, Dubai, United Arab Emirates
+- **Phone:** +971 50 725 2206
+- **Email:** dan@xccel8.com
+- **Website:** https://www.xccel8.com
+- **LinkedIn:** https://www.linkedin.com/company/107068752
+- **Instagram:** https://instagram.com/xccel8.ae
+- **Facebook:** https://www.facebook.com/652179124650090
+
+## Services
+
+### Network Infrastructure
+Wi-Fi, switching & routing, structured cabling, IP telephony, conference room solutions, laptops and endpoints.
+https://www.xccel8.com/network/
+
+### Business Applications
+Zoho (Books, CRM, People, Creator), Microsoft 365, ERP/CRM/HRMS implementation, accounting software, e-invoicing (UAE FTA-compliant via MoF-accredited ASP).
+https://www.xccel8.com/application/
+
+### Compute & Cloud
+Cloud, on-premises & hybrid infrastructure — servers, HCI, storage, backup, and disaster recovery.
+https://www.xccel8.com/compute/
+
+### Cyber & Physical Security
+Firewalls, endpoint protection, CCTV, access control (SIRA-compliant installations via certified partners).
+https://www.xccel8.com/security/
+
+### AI Consulting & Implementation
+AI agents integrated with business workflows. Process discovery, AI solution design, implementation, and support. Serving UAE & GCC, 100% online.
+https://www.xccel8.com/services/ai-consulting/
+
+## Who We Serve
+
+Small and medium enterprises (10–500 employees) in the UAE and GCC across trading, retail, hospitality, healthcare, education, professional services, and light industry.
+
+## Key Pages
+
+- Free consultation: https://www.xccel8.com/#lead-form
+- Blog (UAE IT guides): https://www.xccel8.com/blog/
+- Partner programme: https://www.xccel8.com/partner-programme/
+- Contact: https://www.xccel8.com/contact/
