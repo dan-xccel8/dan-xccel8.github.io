@@ -24,6 +24,9 @@ https://www.xccel8.com/network/
 Zoho (Books, CRM, People, Creator), Microsoft 365, ERP/CRM/HRMS implementation, accounting software, e-invoicing (UAE FTA-compliant via MoF-accredited ASP).
 https://www.xccel8.com/application/
 
+AI consulting & implementation sits within this pillar — AI agents integrated with business workflows, process discovery, AI solution design, implementation, and support. Serving UAE & GCC, 100% online.
+https://www.xccel8.com/services/ai-consulting/
+
 ### Compute & Cloud
 Cloud, on-premises & hybrid infrastructure — servers, HCI, storage, backup, and disaster recovery.
 https://www.xccel8.com/compute/
@@ -32,9 +35,9 @@ https://www.xccel8.com/compute/
 Firewalls, endpoint protection, CCTV, access control (SIRA-compliant installations via certified partners).
 https://www.xccel8.com/security/
 
-### AI Consulting & Implementation
-AI agents integrated with business workflows. Process discovery, AI solution design, implementation, and support. Serving UAE & GCC, 100% online.
-https://www.xccel8.com/services/ai-consulting/
+### Marketing - The Full Stack
+A separate service line beyond the IT pillars: digital marketing (SEO, AI-search optimisation, social media, content, email & WhatsApp campaigns, paid ads), influencer marketing, and traditional marketing (outdoor, print, radio, TV, cinema, transit, events and branded materials) for UAE businesses — planned as one stack and measured in enquiries, not impressions.
+https://www.xccel8.com/services/marketing/
 
 ## Who We Serve
 
