@@ -4,7 +4,7 @@
 
 ## About
 
-XCCEL8 Advanced Solutions LLC is a Dubai-based IT solutions company serving SMEs across the UAE and GCC. We cover four pillars: Network Infrastructure, Business Applications, Compute & Cloud, and Cyber + Physical Security. We are authorized resellers for Microsoft, Zoho, Fortinet, Sophos, Lenovo, Honeywell, and 95+ other brands.
+XCCEL8 Advanced Solutions LLC is a Dubai-based IT solutions company serving SMEs across the UAE and GCC. We cover four pillars: Network Infrastructure, Business Applications, Compute & Cloud, and Cyber + Physical Security. We are a Zoho authorised partner, and resellers for Microsoft, Fortinet, Sophos, Lenovo, Honeywell and other global technology brands.
 
 - **Location:** Al Nahda, Dubai, United Arab Emirates
 - **Phone:** +971 50 725 2206
