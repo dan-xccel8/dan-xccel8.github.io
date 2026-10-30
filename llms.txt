@@ -1,6 +1,6 @@
 # XCCEL8 Advanced Solutions LLC
 
-> One-stop full-stack IT solutions provider in Dubai, UAE. Authorized reseller for 101+ global technology brands, with free consultation, expert implementation, and long-term AMC support.
+> One-stop full-stack IT solutions provider in Dubai, UAE, serving SMEs across the UAE and GCC, with free consultation, expert implementation, and long-term AMC support.
 
 ## About
 
@@ -27,6 +27,15 @@ https://www.xccel8.com/application/
 AI consulting & implementation sits within this pillar — AI agents integrated with business workflows, process discovery, AI solution design, implementation, and support. Serving UAE & GCC, 100% online.
 https://www.xccel8.com/services/ai-consulting/
 
+Website design & development — branded business websites, e-commerce and web applications, designed and approved before build.
+https://www.xccel8.com/services/website-design/
+
+Mobile app development — Android and iOS apps for customers and field teams, integrated with Zoho and Microsoft systems.
+https://www.xccel8.com/services/mobile-apps/
+
+UAE e-invoicing — Zoho Books e-invoicing setup, ERP integration and an upload portal, delivered through a MoF-accredited ASP partner.
+https://www.xccel8.com/services/e-invoicing/
+
 ### Compute & Cloud
 Cloud, on-premises & hybrid infrastructure — servers, HCI, storage, backup, and disaster recovery.
 https://www.xccel8.com/compute/
@@ -38,6 +47,21 @@ https://www.xccel8.com/security/
 ### Marketing - The Full Stack
 A separate service line beyond the IT pillars: digital marketing (SEO, AI-search optimisation, social media, content, email & WhatsApp campaigns, paid ads), influencer marketing, and traditional marketing (outdoor, print, radio, TV, cinema, transit, events and branded materials) for UAE businesses — planned as one stack and measured in enquiries, not impressions.
 https://www.xccel8.com/services/marketing/
+
+SEO, GEO & AEO optimisation — technical, on-page and local SEO, AI-search visibility and answer-first content.
+https://www.xccel8.com/services/seo-geo-aeo/
+
+Social media management — content planned, designed, written and scheduled across Facebook, Instagram, LinkedIn, TikTok, YouTube and more.
+https://www.xccel8.com/services/social-media-management/
+
+Paid ad management — Google, Meta, LinkedIn, YouTube and TikTok campaigns, with every enquiry tracked to its campaign.
+https://www.xccel8.com/services/paid-ad-management/
+
+Events management — conferences, launches, exhibitions and corporate celebrations handled end to end.
+https://www.xccel8.com/services/events-management/
+
+Branded business materials — business cards, signage, roll-ups and vehicle branding, designed and produced end to end.
+https://www.xccel8.com/services/branded-materials/
 
 ## Who We Serve
 
