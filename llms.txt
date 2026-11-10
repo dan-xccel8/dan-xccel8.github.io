@@ -1,10 +1,10 @@
 # XCCEL8 Advanced Solutions LLC
 
-> One-stop full-stack IT solutions provider in Dubai, UAE, serving SMEs across the UAE and GCC, with free consultation, expert implementation, and long-term AMC support.
+> One-stop full-stack IT solutions provider in Dubai, UAE, serving SMEs across the UAE and GCC, and Zoho CRM and Zoho Books clients in the UK and USA, with free consultation, expert implementation, and long-term AMC support.
 
 ## About
 
-XCCEL8 Advanced Solutions LLC is a Dubai-based IT solutions company serving SMEs across the UAE and GCC. We cover four pillars: Network Infrastructure, Business Applications, Compute & Cloud, and Cyber + Physical Security. We are a Zoho authorised partner, and resellers for Microsoft, Fortinet, Sophos, Lenovo, Honeywell and other global technology brands.
+XCCEL8 Advanced Solutions LLC is a Dubai-based IT solutions company serving SMEs across the UAE and GCC, with dedicated Zoho CRM and Zoho Books implementation services for businesses in the UK and USA. We cover four pillars: Network Infrastructure, Business Applications, Compute & Cloud, and Cyber + Physical Security. We are a Zoho authorised partner, and resellers for Microsoft, Fortinet, Sophos, Lenovo, Honeywell and other global technology brands.
 
 - **Location:** Al Nahda, Dubai, United Arab Emirates
 - **Phone:** +971 50 725 2206
@@ -23,6 +23,24 @@ https://www.xccel8.com/network/
 ### Business Applications
 Zoho (Books, CRM, People, Creator), Microsoft 365, ERP/CRM/HRMS implementation, accounting software, e-invoicing (UAE FTA-compliant via MoF-accredited ASP).
 https://www.xccel8.com/application/
+
+Zoho CRM implementation, migration and training — UAE:
+https://www.xccel8.com/brands/zoho/crm/
+
+Zoho Books implementation, migration and training — UAE (VAT, Corporate Tax, Peppol e-invoicing, WPS payroll):
+https://www.xccel8.com/brands/zoho/books/
+
+Zoho CRM implementation, migration and training — UK (UK GDPR, Companies House, Xero, Sage, GoCardless):
+https://www.xccel8.com/uk/zoho/crm/
+
+Zoho Books implementation, migration and training — UK (HMRC Making Tax Digital, CT600, CIS, UK payroll):
+https://www.xccel8.com/uk/zoho/books/
+
+Zoho CRM implementation, migration and training — USA (US data hosting, CCPA, QuickBooks, Stripe):
+https://www.xccel8.com/us/zoho/crm/
+
+Zoho Books implementation, migration and training — USA (sales tax automation, 1099 e-filing, 50-state payroll):
+https://www.xccel8.com/us/zoho/books/
 
 AI consulting & implementation sits within this pillar — AI agents integrated with business workflows, process discovery, AI solution design, implementation, and support. Serving UAE & GCC, 100% online.
 https://www.xccel8.com/services/ai-consulting/
@@ -65,7 +83,7 @@ https://www.xccel8.com/services/branded-materials/
 
 ## Who We Serve
 
-Small and medium enterprises (10–500 employees) in the UAE and GCC across trading, retail, hospitality, healthcare, education, professional services, and light industry.
+Small and medium enterprises (10–500 employees) in the UAE and GCC across trading, retail, hospitality, healthcare, education, professional services, and light industry; and businesses in the UK and USA for Zoho CRM and Zoho Books implementation.
 
 ## Key Pages
 
